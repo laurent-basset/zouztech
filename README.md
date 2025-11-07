@@ -1,46 +1,56 @@
-# Laurent BASSET - Technicien Supérieur en Informatique
+# Laurent BASSET - Technicien Supérieur en Informatique 👨‍💻
 
-Bienvenue sur mon portfolio GitHub ! [cite_start]Je suis **Laurent BASSET**, un **Technicien Supérieur en Informatique** [cite: 11, 12] [cite_start]passionné par la gestion et la maintenance de sites informatiques en toute autonomie[cite: 13].
+Bienvenue sur mon espace GitHub. Je suis **Laurent BASSET**, un professionnel expérimenté en maintenance et gestion de systèmes informatiques, capable d'opérer en complète autonomie.
 
-[cite_start]Avec une solide expérience dans la gestion de parc informatique pour des professionnels et particuliers [cite: 15][cite_start], je suis un professionnel polyvalent, orienté solution et doté d'une forte aisance relationnelle[cite: 15].
+Fort de plus de 10 ans en tant que Technicien Principal en informatique et réseaux, je suis orienté vers la performance et la continuité de service des infrastructures. Mon profil est caractérisé par une **polyvalence technique** et une **grande aisance relationnelle** avec les utilisateurs et les fournisseurs.
 
-## 🛠️ Domaines de Compétences Techniques
+---
 
-Mes compétences clés se concentrent sur la gestion d'infrastructures informatiques complexes :
+## 🛠️ Expertise Technique & Compétences Clés
 
-* [cite_start]**Réseaux et Serveurs :** Maîtrise du réseau et des serveurs [cite: 14][cite_start], incluant la gestion de parcs de plusieurs centaines d'utilisateurs (jusqu'à 200 mentionnés)[cite: 19].
-* [cite_start]**Maintenance et Support :** Expertise dans la maintenance des postes de travail, imprimantes réseau, téléphones, serveurs et périphériques[cite: 19]. [cite_start]Gestion de la prise en charge et du suivi du SAV auprès des fournisseurs[cite: 20].
-* [cite_start]**Support Utilisateur :** Expérience en hotline pour sites distants [cite: 21][cite_start], assistance et formation des utilisateurs[cite: 29].
-* [cite_start]**Installation/Déploiement :** Compétences en déplacement, installation, déménagement, dépannage des postes de travail [cite: 24] [cite_start]et brassage réseau[cite: 25].
-* [cite_start]**Systèmes et Logiciels :** Maîtrise de **WINDOWS, CISCO, MS OFFICE** [cite: 15][cite_start], avec des connaissances spécifiques en systèmes de clonage de postes[cite: 32].
+Mon cœur de métier est la gestion complète d'environnements informatiques complexes :
 
-## 🎓 Certifications & Formations Pertinentes
+* **Administration Réseau et Serveurs :** Gestion de l'infrastructure réseau pour un parc allant jusqu'à 200 utilisateurs.
+* **Maintenance & Dépannage :** Maintenance des postes de travail (y compris clonage pour réinstallation rapide), imprimantes réseau, périphériques et serveurs.
+* **Support & Hotline :** Prise en charge du support technique de niveau 1 et 2 (Hotline) y compris pour les sites distants.
+* **Gestion Fournisseurs :** Prise en charge et suivi complet du Service Après-Vente (SAV) auprès des fournisseurs.
+* **Formation Utilisateurs :** Expérience en assistance, formation et création de tutoriels pour les utilisateurs finaux.
+* **Environnements Techniques :** Maîtrise des systèmes **WINDOWS, CISCO, MS OFFICE**, etc.
 
-Mes connaissances sont étayées par des formations reconnues, notamment sur les technologies CISCO et Allied Telesis :
+## 🎓 Formations et Certifications
+
+Mes compétences techniques sont officiellement validées par les certifications suivantes :
 
 * **CISCO :**
-    * [cite_start]Interconnecting CISCO Network Devices Part 2 [cite: 52]
-    * [cite_start]Building CISCO Multilayer Switched Networks [cite: 53]
+    * Building CISCO Multilayer Switched Networks
+    * Interconnecting CISCO Network Devices Part 2
 * **Allied Telesis :**
-    * [cite_start]Certified Allied Telesis Technician [cite: 50]
-    * [cite_start]Certified Allied Telesis Professional AllieedWare Plus M [cite: 51]
-* [cite_start]**Diplôme :** BAC Pro de Technicien Assistant des Utilisateurs de l'Informatique (TAUI)[cite: 49].
+    * Certified Allied Telesis Technician
+    * Certified Allied Telesis Professional AllieedWare Plus M
+* **Diplôme :** BAC Pro de Technicien Assistant des Utilisateurs de l'Informatique (TAUI).
 
-## 💼 Expérience Professionnelle (Sélection)
+## 💼 Parcours Professionnel Informatique
 
-| Période | Poste | Entreprise | Missions Clés |
+| Période | Poste | Société | Détail de l'expérience |
 | :--- | :--- | :--- | :--- |
-| **Janv. 2002 - Sept. 2012** | [cite_start]**Technicien principal en informatique et réseaux** [cite: 18] | [cite_start]MODIS FRANCE (69) [cite: 17] | Gestion complète d'un parc de 200 utilisateurs. [cite_start]Maintenance, SAV, hotline pour sites distants[cite: 19, 20, 21]. |
-| **Déc. 2000 - Déc. 2001** | [cite_start]Technicien informatique [cite: 23] | [cite_start]LAECAR (92) [cite: 22] | [cite_start]Déplacements nationaux pour installation, dépannage des postes et imprimantes réseau, brassage réseau[cite: 24, 25]. |
-| **Oct. 1999 - Nov. 2000** | [cite_start]Technicien informatique stagiaire [cite: 27] | [cite_start]CCI (89) [cite: 26] | [cite_start]Assistance/formation utilisateurs, réalisation de tutoriels, mise en place de clonage de postes[cite: 29, 30, 32]. |
+| **2002 - 2012 (10 ans)** | **Technicien Principal en Informatique et Réseaux** | MODIS FRANCE (69) | **Responsable d'un parc de 200 utilisateurs.** Gestion des serveurs, maintenance complète, gestion du SAV, support aux utilisateurs et sites distants. |
+| **2000 - 2001** | Technicien Informatique | LAECAR (92) | Déplacements nationaux pour l'installation, le déménagement et le dépannage des postes de travail. Brassage réseau. |
+| **1999 - 2000** | Technicien Informatique Stagiaire (Alternance) | CCI (89) | Assistance aux utilisateurs, création de tutoriels et mise en place d'un système de clonage. |
 
-## 🌟 Note sur mon Profil Polyvalent
+*(Mes expériences antérieures en Chauffage, Commercial et Travaux Publics confirment ma capacité d'adaptation et ma rigueur professionnelle.)*
 
-[cite_start]Avant de me spécialiser dans l'informatique, j'ai développé des compétences transversales essentielles dans d'autres domaines (TP [cite: 1][cite_start], Chauffage Commercial [cite: 2][cite_start], Assurance-vie [cite: 34][cite_start], Vente [cite: 36, 39, 42]), ce qui renforce ma capacité d'adaptation, ma rigueur et mon sens du service client.
+## 📍 Contact & Localisation
 
-## 📞 Me Contacter
+Je suis ouvert aux opportunités professionnelles dans la région de l'Isère et ses environs.
 
-N'hésitez pas à me contacter pour toute opportunité ou collaboration :
-* [cite_start]**Email :** laurent.basset@gmail.com [cite: 9]
-* [cite_start]**Téléphone :** 06 81 11 02 06 [cite: 8]
-* [cite_start]**Lieu de résidence :** Fontaine, 01230 [cite: 6]
+* **Email :** laurent.basset@gmail.com
+* **Téléphone :** 06 81 11 02 06
+* **Localisation :** Fontaine 38600
+
+---
+
+## 🚀 Projets
+
+*Cette section est réservée à la liste de vos projets GitHub. Par exemple :*
+* [Projet 1 : Nom du Projet](lien_vers_le_repo) - Description succincte (ex: Automatisation de la gestion des backups via script Powershell).
+* [Projet 2 : Nom du Projet](lien_vers_le_repo) - Description succincte (ex: Mise en place d'un environnement de test de sécurité réseau).
