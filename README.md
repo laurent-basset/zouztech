@@ -43,4 +43,4 @@ Mes connaissances sont étayées par des formations reconnues, notamment sur les
 N'hésitez pas à me contacter pour toute opportunité ou collaboration :
 * [cite_start]**Email :** laurent.basset@gmail.com [cite: 9]
 * [cite_start]**Téléphone :** 06 81 11 02 06 [cite: 8]
-* [cite_start]**Lieu de résidence :** Saint Rambert en Bugey, 01230 [cite: 6]
+* [cite_start]**Lieu de résidence :** Fontaine, 01230 [cite: 6]
